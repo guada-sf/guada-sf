@@ -16,3 +16,4 @@ Here are some ideas to get you started:
 -->
 
 I'm a bioengineering student interested in data analysis, machine learning and virtual reality. 
+Currently taking a class in web development.
