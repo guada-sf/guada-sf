@@ -17,3 +17,7 @@ Here are some ideas to get you started:
 
 I'm a bioengineering student interested in data analysis, machine learning and virtual reality. 
 Currently taking a class in web development.
+
+My projects:
+- [Classification model for breast cancer using PCA, AdaBoost and Random Forest](https://github.com/flordenisse/PCA_and_AdaBoost)
+- [VR Cardio](https://github.com/guada-sf/VR-Cardio)
