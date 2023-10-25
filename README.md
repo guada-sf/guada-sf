@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm a bioengineering student interested in data analysis, machine learning and virtual reality. 
-Currently taking a class in web development.
+I'm a bioengineering student interested in software development, data analysis, machine learning and virtual reality. 
+Currently taking a class in web development ([ProMed website](https://github.com/guada-sf/programacionWeb).
 
 My projects:
 - [Classification model for breast cancer using PCA, AdaBoost and Random Forest](https://github.com/flordenisse/PCA_and_AdaBoost)
